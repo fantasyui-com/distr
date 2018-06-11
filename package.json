@@ -1,0 +1,20 @@
+{
+  "name": "distr",
+  "version": "1.0.0",
+  "description": "Smartly change src path to dist path, for use in small build systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/distr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/distr/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/distr#readme"
+}
