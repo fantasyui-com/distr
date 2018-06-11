@@ -25,7 +25,7 @@ $ npm i distr;
 
 ```JavaScript
 
-const distr = require(distr);
+const distr = require('distr');
 
   distr('./src/www/index.html');
   //-> ./dist/www/index.html
