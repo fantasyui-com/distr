@@ -1,6 +1,6 @@
 {
   "name": "distr",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Smartly change src path to dist path, for use in small build systems.",
   "main": "index.js",
   "scripts": {
